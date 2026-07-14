@@ -3,7 +3,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper-wdp.pages.dev/",
-    title: "AstroPaper",
+    title: "WDP ML GRATIS",
     description: "A minimal, responsive and SEO-friendly Astro blog theme.",
     author: "WDP ML GRATIS",
     profile: "https://github.com/wdpmlgratis",
@@ -24,7 +24,7 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/wdpmlgratis/edit/main/",
     },
     search: "pagefind",
   },
