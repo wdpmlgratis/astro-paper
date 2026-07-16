@@ -16,34 +16,6 @@ In this post I will explain how to use the pre-commit Git hook to automate the i
 
 ## Table of contents
 
-## Percobaan Link HTML
-
-Di bawah ini adalah link yang dibuat menggunakan HTML agar bisa terbuka di tab baru:
-
-<span>
-  AstroPaper is a minimal, accessible and SEO-friendly blog theme built with 
-  <a 
-    href="https://astro.build/" 
-    target="_blank" 
-    rel="noopener noreferrer" 
-    class="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-  >
-    Astro
-  </a> 
-  and 
-  <a 
-    href="https://tailwindcss.com/" 
-    target="_blank" 
-    rel="noopener noreferrer" 
-    class="underline decoration-dashed underline-offset-4 hover:text-skin-accent"
-  >
-    Tailwind CSS
-  </a>.
-</span>
-
-## Kenapa pakai cara ini?
-Karena standar Markdown `[Teks](URL)` tidak mendukung `target="_blank"`. Dengan menyisipkan HTML di atas, kamu bisa memaksa link terbuka di tab baru tanpa merusak desain AstroPaper kamu.
-
 ## Have them Everywhere
 
 [Git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) are great for automating tasks like [adding](https://gist.github.com/SSmale/3b380e5bbed3233159fb7031451726ea) or [checking](https://itnext.io/using-git-hooks-to-enforce-branch-naming-policy-ffd81fa01e5e) the branch name to your commit messages or [stopping you committing plain text secrets](https://gist.github.com/SSmale/367deee757a9b2e119d241e120249000). Their biggest flaw is that client-side hooks are per machine.
