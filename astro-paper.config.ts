@@ -3,12 +3,12 @@ import { defineAstroPaperConfig } from "./src/types/config";
 export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper-wdp.pages.dev/",
-    title: "WDP ML GRATIS",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
+    title: "WDP ML GRATIS | Ikuti Giveaway WDP ML gratis disini!",
+    description: "WDP ML GRATIS | Ikuti Giveaway WDP ML gratis disini!",
     author: "WDP ML GRATIS",
     profile: "https://github.com/wdpmlgratis",
     ogImage: "default-og.jpg",
-    lang: "en",
+    lang: "id",
     timezone: "Asia/Bangkok",
     dir: "ltr",
     googleVerification: "JXgsKxevhRkBS7xMuJVmX1NM-UnQyTGMb_wPi_flhw4",
