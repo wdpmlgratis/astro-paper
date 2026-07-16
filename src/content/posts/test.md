@@ -1,13 +1,14 @@
 ---
-title: Contoh Postingan dengan Link Tab Baru
-author: WDP ML GRATIS
-pubDatetime: 2022-06-06T04:06:31Z
-slug: contoh-test-link
+author: Simon Smale
+pubDatetime: 2026-07-16T12:30:08Z
+title: How to use Git Hooks to set Created and Modified Dates
 featured: false
 draft: false
 tags:
-  - Test
-description: Mencoba link dengan target blank di dalam konten.
+  - docs
+  - FAQ
+canonicalURL: https://smale.codes/posts/setting-dates-via-git-hooks/
+description: How to use Git Hooks to set your Created and Modified Dates on AstroPaper
 ---
 
 ## Percobaan Link HTML
