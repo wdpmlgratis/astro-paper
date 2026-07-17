@@ -8,7 +8,7 @@ export default defineAstroPaperConfig({
     author: "WDP ML GRATIS",
     profile: "https://github.com/wdpmlgratis",
     ogImage: "default-og.jpg",
-    lang: "id",
+    lang: "en",
     timezone: "Asia/Bangkok",
     dir: "ltr",
     googleVerification: "JXgsKxevhRkBS7xMuJVmX1NM-UnQyTGMb_wPi_flhw4",
