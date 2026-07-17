@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper-wdp.pages.dev/",
     title: "WDP ML GRATIS | Ikuti Giveaway WDP ML gratis disini!",
-    description: "WDP ML GRATIS | Ikuti Giveaway WDP ML gratis disini!",
+    description: "WDPMLGRATIS | Ikuti Giveaway WDP ML gratis disini!",
     author: "WDP ML GRATIS",
     profile: "https://github.com/wdpmlgratis",
     ogImage: "default-og.jpg",
