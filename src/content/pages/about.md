@@ -13,6 +13,16 @@ AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full
 
 The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
 
+<p class="animate">
+            I am a minimal, seo friendly, accessible portfolio and blog for developers. 
+            I am an even more lightweight version of my popular theme
+            <Link href="https://github.com/markhorn-dev/astro-sphere" aria-label="Astro Sphere on Github" external>
+              Astro Sphere
+            </Link>.
+            I have a lighthouse scores of 100 across the board for performance, 
+            accesibility, best practices and SEO.
+          </p>
+
 ## Features
 
 AstroPaper comes with a set of useful features that make content publishing easy and effective:
