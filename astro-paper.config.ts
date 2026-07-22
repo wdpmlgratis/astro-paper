@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://astro-paper-wdp.pages.dev/",
     title: "WDP ML GRATIS",
-    description: "WDP ML GRATIS | Ikuti Giveaway WDP ML gratis disini!",
+    description: "Ikuti Giveaway WDP ML gratis! Menangkan Weekly Diamond Pass Mobile Legends secara gratis. Daftar sekarang dan jadilah salah satu pemenang yang beruntung!",
     author: "WDP ML GRATIS",
     profile: "https://github.com/wdpmlgratis",
     ogImage: "default-og.jpg",
@@ -34,7 +34,7 @@ export default defineAstroPaperConfig({
     { name: "github",   url: "https://github.com/wdpmlgratis" },
     { name: "x",        url: "https://x.com/username" },
     { name: "linkedin", url: "https://www.linkedin.com/in/username/" },
-    { name: "mail",     url: "mailto:wdpmlgratis@gmail.com" },
+    { name: "mail",     url: "mailto:wdpmlgratis+astropaper@gmail.com" },
   ],
   shareLinks: [
     { name: "whatsapp", url: "https://wa.me/?text=" },
