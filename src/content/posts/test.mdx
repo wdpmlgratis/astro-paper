@@ -1,33 +1,28 @@
 ---
-author: Simon Smale
-pubDatetime: 2024-01-03T20:40:08Z
-modDatetime: 2024-01-08T18:59:05Z
-title: How to use Git Hooks to set Created and Modified Dates
+author: WDP ML GRATIS
+pubDatetime: 2026-07-22T01:35:00Z
+modDatetime: 2026-07-22T01:35:00Z
+title: Testing Link Component Integration in Astro MDX
 featured: true
 draft: false
 tags:
   - coba
   - external 
-canonicalURL: https://smale.codes/posts/setting-dates-via-git-hooks/
-description: How to use Git Hooks to set your Created and Modified Dates on AstroPaper
+description: A test page to verify the functionality of standard, custom, and external link behavior within the Astro MDX format.
 ---
 
 import Link from "../../components/Link.astro";
 
 # Halo, Ini Testing MDX!
 
-Ini adalah postingan untuk ngetes apakah komponen link kita berhasil.
+Ini adalah postingan untuk mencoba komponen tautan pada halaman MDX.
 
 ### 1. Link Standar (Markdown)
-Ini link biasa: [Google](https://google.com) (Harusnya terbuka di tab yang sama).
+link biasa: [Google](https://google.com) (terbuka di tab yang sama).
 
 ### 2. Link Custom (Tanpa External)
-Ini pake komponen: <Link href="https://github.com">GitHub</Link> (Harusnya tetap tab yang sama).
+tanpa external: <Link href="https://github.com">GitHub</Link> (tetap tab yang sama).
 
 ### 3. Link Custom (Pake External)
-Ini yang sakti: <Link href="https://astro.build" external>Website Astro</Link> 🚀
-(Harusnya terbuka di **TAB BARU** karena ada kata kunci `external`).
-
+menggunakan komponen eksternal: <Link href="https://astro.build" external>Website Astro</Link> 🚀
 ---
-
-**Catatan:** Kalau link nomor 3 berhasil buka tab baru, berarti setup kamu sudah 100% benar!
